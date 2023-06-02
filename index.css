@@ -1,0 +1,14 @@
+.table-counter{
+    height: 800px;
+    overflow-x: auto;
+}
+h1{
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+}
+thead {
+    top: 0;
+    position: sticky;
+    border: 0px !important;
+ }
